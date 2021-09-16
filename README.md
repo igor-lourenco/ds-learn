@@ -21,5 +21,26 @@ Marcar/desmarcar upvote em pergunta (não pode ser o autor)
 Marcar/desmarcar upvote em resposta (não pode ser o autor)
 Marcar/desmarcar melhor resposta (somente autor do tópico e instrutor)
 
+## Modelo conceitual
+![Modelo Conceitual](https://github.com/igor-lourenco/ds-learn/blob/main/assets/images/modelo-conceitual-com-forum.png)
 
+## Padrão camadas
+![Padrão camadas](https://github.com/igor-lourenco/projeto-spring-react-vendas/blob/main/frontend/src/assets/img/padrao_camadas.png)
+
+# Tecnologias Utilizadas
+
+## Back end
+- Java 11
+- Spring Boot
+- Spring Cloud
+- JWT
+- OAuth2
+- JPA / Hibernate
+- Maven
+
+# Autor
+
+Igor Lourenço Dos Santos
+
+https://www.linkedin.com/in/igor-lourenco-santos
 
