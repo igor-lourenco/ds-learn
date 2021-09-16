@@ -21,6 +21,5 @@ Marcar/desmarcar upvote em pergunta (não pode ser o autor)
 Marcar/desmarcar upvote em resposta (não pode ser o autor)
 Marcar/desmarcar melhor resposta (somente autor do tópico e instrutor)
 
-## Modelo conceitual
-![Modelo Conceitual](https://drive.google.com/drive/folders/1pzUZsfRLZVatkWDgJXz4Bl4G74MqPaUq)
+
 
